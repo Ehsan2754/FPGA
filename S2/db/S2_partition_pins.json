@@ -1,0 +1,113 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "LED[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[4]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[6]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[8]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX[0]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX[3]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX[4]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX[5]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX[6]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX[7]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX[14]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX[15]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX[18]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX[21]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX[30]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX[31]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX[32]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX[35]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX[36]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX[37]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX[38]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX[46]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX[47]",
+					"strict" : false
+				},
+				{
+					"name" : "KEY[1]",
+					"strict" : false
+				},
+				{
+					"name" : "KEY[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
