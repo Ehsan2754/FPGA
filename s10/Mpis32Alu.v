@@ -1,0 +1,24 @@
+module Mips32Alu ( input  [4:0]rs,
+		   input  [4:0]rt,
+		   output [4:0]rd,
+		   input  [4:0]shamt,
+		   input  [5:0]funct
+	          );
+always@ (*) begin 
+	case (funct)
+       6'b100000: begin //add 
+	assign rd = rt+rs;
+	end
+       6'b000010: begin //srl
+	assign rd = rt >> shamt; 
+	end
+       6'b100010: begin //sub
+	assign rd = rs-rt;
+	end
+	default: begin
+		
+	end
+	 endcase
+endmodule
+	
+	

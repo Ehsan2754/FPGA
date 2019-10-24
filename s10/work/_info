@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+valu_testbench
+!s110 1571926362
+!i10b 1
+!s100 l4FjVYJ]6i;?5^]@S9Mio0
+IOO[fGmkU7H7DEWD7nkeWY2
+VDg1SIo80bB@j0V0VzS_@n1
+dE:/Embedded/FPGA/s10
+w1571923282
+8E:/Embedded/FPGA/s10/alu_testbench.v
+FE:/Embedded/FPGA/s10/alu_testbench.v
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1571926362.000000
+!s107 E:/Embedded/FPGA/s10/alu_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Embedded/FPGA/s10/alu_testbench.v|
+!i113 1
+o-work work
+tCvgOpt 0

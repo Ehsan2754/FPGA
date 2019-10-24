@@ -1,0 +1,16 @@
+|multipelexer4_1
+I[0] => O.IN1
+I[1] => O.IN1
+I[2] => O.IN1
+I[3] => O.IN1
+Select[0] => O.IN0
+Select[0] => O.IN0
+Select[0] => O.IN0
+Select[0] => O.IN0
+Select[1] => O.IN1
+Select[1] => O.IN1
+Select[1] => O.IN1
+Select[1] => O.IN1
+O <= O.DB_MAX_OUTPUT_PORT_TYPE
+
+
